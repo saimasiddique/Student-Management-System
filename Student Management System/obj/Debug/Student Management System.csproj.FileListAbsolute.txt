@@ -1,0 +1,2 @@
+c:\users\saman\documents\visual studio 2015\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\c#\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
